@@ -1,0 +1,1 @@
+# football_scouting_ai_assistant
